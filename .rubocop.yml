@@ -1,0 +1,27 @@
+require: rubocop-sketchup
+
+AllCops:
+  DisabledByDefault: true
+  DisplayStyleGuide: true
+  SketchUp:
+    SourcePath: sk_tuto
+    EncryptedExtension: false
+    TargetSketchUpVersion: 2021
+
+SketchupDeprecations:
+  Enabled: true
+
+SketchupPerformance:
+  Enabled: true
+
+SketchupRequirements:
+  Enabled: true
+
+SketchupRequirements/FileStructure:
+  Enabled: false
+
+SketchupSuggestions:
+  Enabled: true
+
+SketchupBugs:
+  Enabled: true
