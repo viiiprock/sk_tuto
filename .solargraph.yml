@@ -1,5 +1,5 @@
-require_paths:
-  - sk_tuto
-
+require_paths: []
+require:
+  - sketchup-api-stubs
 reporters:
   - rubocop

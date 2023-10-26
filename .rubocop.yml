@@ -4,7 +4,6 @@ AllCops:
   DisabledByDefault: true
   DisplayStyleGuide: true
   SketchUp:
-    SourcePath: sk_tuto
     EncryptedExtension: false
     TargetSketchUpVersion: 2021
 
